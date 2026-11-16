@@ -592,6 +592,12 @@ function on_init()
                     raw = raw - 0x100000000  -- 有符号 int32
                 end
                 local mag = raw / 1000.0  -- 还原浮点磁感应强度
+                -- 常数（与原 C 代码完全一致，π 用 3.1416 保证对齐）
+
+                -- 修改单片机代码后可以删除该段
+                local ii = mag / 0.007733
+                mag = (ii / 738.7) * 107.23 * 10
+
                 update_lock()
                 set_float(VT_LW, addr, mag)
                 update_unlock()
