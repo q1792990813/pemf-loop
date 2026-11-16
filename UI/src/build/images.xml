@@ -1,0 +1,23 @@
+<images>
+	<image id="0" name="project.xico/18_s1_w117_h60_m1_f0"/>
+	<image id="1" name="project.xico/19_s1_w117_h60_m1_f0"/>
+	<image id="2" name="project.xico/0_s65535_w153_h43_m1_f0"/>
+	<image id="3" name="project.xico/1_s1_w25_h25_m1_f0"/>
+	<image id="4" name="project.xico/2_s1_w25_h25_m1_f0"/>
+	<image id="5" name="project.xico/12_s1_w30_h30_m1_f0"/>
+	<image id="6" name="project.xico/13_s1_w30_h30_m1_f0"/>
+	<image id="7" name="project.xico/16_s1_w117_h60_m1_f0"/>
+	<image id="8" name="project.xico/17_s1_w117_h60_m1_f0"/>
+	<image id="9" name="lamp.xico/20_s1_w32_h32_m1_f0"/>
+	<image id="10" name="lamp.xico/19_s1_w32_h32_m1_f0"/>
+	<image id="11" name="project.xico/20_s1_w117_h60_m1_f0"/>
+	<image id="12" name="project.xico/21_s1_w117_h60_m1_f0"/>
+	<image id="13" name="project.xico/14_s1_w117_h60_m1_f0"/>
+	<image id="14" name="project.xico/15_s1_w117_h60_m1_f0"/>
+	<image id="15" name="project.xico/10_s1_w35_h35_m1_f0"/>
+	<image id="16" name="project.xico/9_s1_w35_h35_m1_f0"/>
+	<image id="17" name="kbdigit.xico/9_s1_w375_h281_m1_f0"/>
+	<image id="18" name="kbdigit.xico/8_s1_w375_h281_m1_f0"/>
+	<image id="19" name="kbfull.xico/23_s1_w800_h469_m1_f0"/>
+	<image id="20" name="kbfull.xico/22_s1_w800_h469_m1_f0"/>
+</images>
