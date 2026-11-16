@@ -22,8 +22,8 @@ Firmware upgrade repository for the magnetic therapy device. It contains UI, STM
 
 **Important: Power off the device before upgrading.**
 
-1. Prepare a 4 GB SD card and format it as FAT32.![UI program files](vscode-file://vscode-app/e:/磁疗仪/pemf-loop/docs/manual-images/image1.png)  
-  
+1. Prepare a 4 GB SD card and format it as FAT32.![UI program files](docs/manual-images/image1.png)  
+
 
 2. Copy the UI program onto the SD card (copy the `private` directory to the SD card root).
 

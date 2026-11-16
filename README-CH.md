@@ -22,8 +22,8 @@
 
 **重要提示：升级前需要设备关机。**
 
-1. 找一个 4GB 大小的 SD 卡，格式化 SD 卡为 FAT32 格式。![UI 程序文件](vscode-file://vscode-app/e:/磁疗仪/pemf-loop/docs/manual-images/image1.png)  
-  
+1. 找一个 4GB 大小的 SD 卡，格式化 SD 卡为 FAT32 格式。![UI 程序文件](docs/manual-images/image1.png)  
+
 
 2. 将 UI 程序放到 SD 卡中（把 `private` 目录复制到 SD 卡根目录）。
 
